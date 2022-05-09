@@ -1,0 +1,15 @@
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.exe
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.deps.json
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.runtimeconfig.json
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.pdb
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.csproj.AssemblyReference.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfo.cs
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\refint\JoiningData.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.pdb
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.genruntimeconfig.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit6Labs\JoiningData\JoiningData\obj\Debug\net6.0\ref\JoiningData.dll
